@@ -11,7 +11,7 @@ And the best part, that isn't just a politicians', bureaucrats', or corporate ex
 
 Those who have power only have it because we've given it to them. Take back your power by making a different choice, choose self-empowerment, choose dPlatform.
 
-dPlatform Yourself!
+**_dPlatform Yourself!_**
 
 &nbsp;
 
@@ -41,8 +41,9 @@ dPlatform Yourself!
 
 * __True Neutrality__ - With censorship resistance and self monetization, narrative control becomes more difficult as dissenting voices have a platform and the marketplace or community decides what get heard. dPlatform aspires to be a public square composed of a community with varied interests, diverse voices, and open minds not a single private entity monetizing a monolithic platform.
 
-* __Your Content IS the Product__ - 
+* __Your Content IS the Product__ - The content you contribute should sell itself! The content you contribute should compel other to contribute. The content you contribute should be true to you not an advertising trend, marketing executives whim, virtue signaling moderator team lead, or community guidlines and standards document. The content you contribute should put more money in your pocket and less in the lobbyist and politicians of the big tech companies and their real customers the advertising industry.
 
+* __dPlatform Yourself!__
 
 &nbsp;
 
@@ -70,5 +71,5 @@ The best way to support this project is to use it, give feedback, and tell other
 &nbsp;
 
 ## License
-Copyright © KaoticGood
+Copyright © KaoticGood and dplatform.me
 This project is [CC-BY-NC-ND-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0) licensed.
